@@ -73,14 +73,8 @@ Success Ratios:
 
 3.Pandas – Data cleaning and transformation
 
-4.Data Storytelling – 🧰 Tools & Skills Used
-1.Power BI – Data visualization & dashboard creation
+4.Data Storytelling 
 
-2.DAX (Data Analysis Expressions) – Calculated KPIs and performance metrics
-
-3.Pandas – Data cleaning and transformation
-
-4.Data Storytelling – Presenting campaign insights effectively
 ---
 
 ## 📊 Dashboard Features
